@@ -1,0 +1,96 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Lucida Sans;
+  background-color: #665d5d;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-style: bold;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 36px;
+  color: #fff;
+}
+
+.profile {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+img {
+  border-radius: 100%;
+  width: 230px;
+  height: 200px;
+}
+
+h2 {
+  font-family: cursive;
+  font-size: 24px;
+  color: #fff;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.description {
+  font-size: 18px;
+  color: #fff;
+  font-style: italic;
+}
+
+.qualities,
+.memories {
+  margin-bottom: 30px;
+  font-style: italic;
+}
+
+h3 {
+  font-size: 20px;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: square;
+  font-size: 16px;
+  color: #fff;
+  margin-left: 30px;
+}
+
+footer {
+  text-align: center;
+  color: #fff;
+  margin-top: 20px;
+}
+
+.name
+{
+  font-style: italic;
+}
+
+.bio
+{
+  font-style: bold;
+  color: rgb(215, 215, 149);
+}
+
+.head
+{
+  color:rgb(215, 215, 149) ;
+}
+
+.nick
+{
+  color :rgb(255, 209, 148);
+}
